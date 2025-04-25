@@ -1,0 +1,13 @@
+# Sistema operativo
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Entornos
+.env
+
+# Dependencias
+node_modules/
